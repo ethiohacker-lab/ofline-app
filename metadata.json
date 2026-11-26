@@ -1,0 +1,6 @@
+{
+  "name": "Maya",
+  "description": "Offline-first self-learning Android AI assistant (Maya) for everyday English, Mathematics, Horticulture, and Computer Science, with online Wikipedia & Dictionary knowledge caching into local SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
